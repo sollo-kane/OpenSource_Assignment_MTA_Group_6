@@ -12,7 +12,7 @@ The system provides a shared gallery where all registered users can browse each 
 Multimedia Technology and Animation
 
 ## Group Number
-Group [Your Group Number Here]
+Group 6
 
 ## Team Members
 | Name | Registration Number |
