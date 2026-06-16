@@ -18,7 +18,7 @@ Team Members
 | Name                                         | Registration Number |
 |------                                        |-------------------|
 | SOLO JANGU WILLIAM                           | T24-03-22618 |
-| Member 2                                     | [Reg. No.] |
+| FRANK AHADI MWINUKA                          | T24-03-14065 |
 | Member 3                                     | [Reg. No.] |
 
 
