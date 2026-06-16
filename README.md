@@ -1,44 +1,44 @@
-# PortfolioHub – Digital Portfolio Management System
+PortfolioHub – Digital Portfolio Management System
 
-## Project Overview
+Project Overview
 
 PortfolioHub is a web-based digital portfolio management system developed for the **Multimedia Technology and Animation** degree program at the **University of Dodoma**. It allows students and creatives to register, log in, and manage their artwork and project portfolios online.
 
 The system provides a shared gallery where all registered users can browse each other's work, while each user has full control over their own entries.
 
----
 
-## Degree Program
+
+Degree Program
 Multimedia Technology and Animation
 
-## Group Number
+Group Number
 Group 6
 
-## Team Members
-| Name | Registration Number |
-|------|-------------------|
-| Member 1 | [Reg. No.] |
-| Member 2 | [Reg. No.] |
-| Member 3 | [Reg. No.] |
-
----
+Team Members
+| Name                                         | Registration Number |
+|------                                        |-------------------|
+| SOLO JANGU WILLIAM                           | T24-03-22618 |
+| Member 2                                     | [Reg. No.] |
+| Member 3                                     | [Reg. No.] |
 
 
 
 
-## Features
 
-- **User Management** – Register, login, and logout securely with hashed passwords
-- **Add Portfolio Items** – Store artwork/project title, category, description, tools used, date, and optional image
-- **Display Portfolio** – Browse all portfolio entries in a responsive card gallery
-- **My Portfolio** – View and manage only your own submissions
-- **Search** – Search portfolio items by keyword, description, tools used, or category
-- **Edit & Delete** – Full CRUD control over your own items
-- **Image Upload** – Upload project images (JPG, PNG, GIF, WEBP up to 5MB)
 
----
+Features
 
-## Technologies Used
+User Management – Register, login, and logout securely with hashed passwords
+Add Portfolio Items – Store artwork/project title, category, description, tools used, date, and optional image
+Display Portfolio – Browse all portfolio entries in a responsive card gallery
+My Portfolio – View and manage only your own submissions
+Search – Search portfolio items by keyword, description, tools used, or category
+Edit & Delete – Full CRUD control over your own items
+Image Upload – Upload project images (JPG, PNG, GIF, WEBP up to 5MB)
+
+
+
+Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -47,23 +47,23 @@ Group 6
 | HTML5/CSS3 | Frontend structure and styling |
 | XAMPP      | Local development server (Apache + MySQL) |
 
----
 
-## Installation Steps
 
-### Prerequisites
-- [XAMPP](https://www.apachefriends.org/) (or any LAMP/WAMP stack)
-- PHP 7.4 or higher
-- MySQL 5.7 or higher
+Installation Steps
 
-### Setup Instructions
+Prerequisites
+[XAMPP](https://www.apachefriends.org/) (or any LAMP/WAMP stack)
+PHP 7.4 or higher
+MySQL 5.7 or higher
 
-1. **Clone the repository**
+Setup Instructions
+
+1. Clone the repository
    ```bash
    git clone https://github.com/[YourUsername]/OpenSource_Assignment_MTA_Group[N].git
    ```
 
-2. **Move to XAMPP's web root**
+2. Move to XAMPP's web root
    ```bash
    # Windows
    move OpenSource_Assignment_MTA_Group[N] C:\xampp\htdocs\portfolio
@@ -72,30 +72,29 @@ Group 6
    mv OpenSource_Assignment_MTA_Group[N] /opt/lampp/htdocs/portfolio
    ```
 
-3. **Start XAMPP** – Start Apache and MySQL services
+3. Start XAMPP – Start Apache and MySQL services
 
-4. **Configure database credentials**
+4. Configure database credentials 
    Open `db.php` and update:
    ```php
    define('DB_USER', 'root');   // your MySQL username
    define('DB_PASS', '');       // your MySQL password
    ```
 
-5. **Create uploads folder** (if not present)
+5. Create uploads folder (if not present)
    ```bash
    mkdir portfolio/uploads
    chmod 777 portfolio/uploads   # Linux/Mac only
    ```
 
-6. **Visit the app in your browser**
+6. Visit the app in your browser
    ```
    http://localhost/portfolio/register.php
    ```
    The database and tables are created automatically on first run.
 
 ---
-
-## File Structure
+File Structure
 
 ```
 portfolio/
@@ -120,7 +119,7 @@ portfolio/
 
 ---
 
-## Git Commands Used
+Git Commands Used
 
 ```bash
 # Initialize repository
@@ -152,16 +151,7 @@ git push -u origin main
 
 ---
 
-## GitHub Repository Link
+GitHub Repository Link
+https://github.com/sollo-kane/OpenSource_Assignment_MTA_Group_6.git
 
-[https://github.com/[YourUsername]/OpenSource_Assignment_MTA_Group[N]](https://github.com/)
 
----
-
-## Screenshots
-
-*(Add screenshots of key pages: login, register, gallery, add form, search results)*
-
----
-
-*CP 222 – Open Source Technologies | University of Dodoma | 2025/2026*
