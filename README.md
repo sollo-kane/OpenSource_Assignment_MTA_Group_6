@@ -17,7 +17,7 @@ Group 6
 ## Team Members
 | Name | Registration Number |
 |------|-------------------|
-| Member 1 | [Reg. No.] |
+| FRANK AHADI MWINUKA| T24-03-14065 |
 | Member 2 | [Reg. No.] |
 | Member 3 | [Reg. No.] |
 
