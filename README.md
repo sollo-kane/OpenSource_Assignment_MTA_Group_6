@@ -22,7 +22,8 @@ Team Members
 |FRANK AHADI MWINUKA|             |T24-03-14065 |
 |BATILDA BENO ROMANI|            |T24-03-25605|
 |KELVIN COSMAS AMON|              |T24-03-22217|
-
+|HANNA JOHN MDOE|
+T24-03-18281|
 
 
 
