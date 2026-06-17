@@ -23,7 +23,7 @@ Team Members
 |BATILDA BENO ROMANI|            |T24-03-25605|
 |KELVIN COSMAS AMON|              |T24-03-22217|
 
-
+JOAN SIMON LUCAS.                 T24-03-25076 
 
 
 Features
