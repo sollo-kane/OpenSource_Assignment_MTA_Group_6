@@ -15,6 +15,7 @@ Group Number
 Group 6
 
 Team Members
+
 | Name                             | Registration Number |
 |JOSEPH DAVID ELINAZI|              |T24-03-12308|
 |SOLO JANGU WILLIAM|              |T24-03-22618 |
