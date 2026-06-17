@@ -16,10 +16,10 @@ Group 6
 
 Team Members
 | Name                                         | Registration Number |
-|------                                        |-------------------|
+|JOSEPH DAVID ELINAZI                          |T24-03-12308|
 | SOLO JANGU WILLIAM                           | T24-03-22618 |
 | FRANK AHADI MWINUKA                          | T24-03-14065 |
-| BATILDA BENO ROMANI                                  | [T24-03-25605] |
+| BATILDA BENO ROMANI                           |T24-03-25605|
 
 
 
