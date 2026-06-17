@@ -24,7 +24,7 @@ Team Members
 |KELVIN COSMAS AMON|              |T24-03-22217|
 |HANNA JOHN MDOE|             |T24-03-
 18281|
-
+PASCHAL RICHARD CHANDARUBA      T24-03-22214
 
 
 Features
